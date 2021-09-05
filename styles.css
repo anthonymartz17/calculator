@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+    background: lightcoral;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cal-body{
+    border: 1px solid blue;
+    height: 40vh;
+    width: 70%;
+}
